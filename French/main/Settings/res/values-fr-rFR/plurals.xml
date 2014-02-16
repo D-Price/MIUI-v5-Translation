@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d days "</item>
+        <item quantity="one">"%d day "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d hrs "</item>
+        <item quantity="one">"%d hr "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d mins "</item>
+        <item quantity="one">"%d min "</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">You are now %1$d steps away from being a developer.</item>
+        <item quantity="one">You are now %1$d step away from being a developer.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Le mot de passe doit contenir au moins %d lettres</item>
+        <item quantity="one">Le mot de passe doit contenir au moins 1 lettre</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Le mot de passe doit contenir au moins %d lettres minuscules</item>
+        <item quantity="one">Le mot de passe doit contenir au moins 1 lettre minuscule</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Le mot de passe doit contenir au moins %d lettres majuscules</item>
+        <item quantity="one">Le mot de passe doit contenir au moins 1 lettre majuscule</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Le mot de passe doit contenir au moins %d caractères numériques</item>
+        <item quantity="one">Le mot de passe doit contenir au moins 1 caractère numérique</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Le mot de passe doit contenir au moins %d symboles</item>
+        <item quantity="one">Le mot de passe doit contenir au moins 1 symbole</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Le mot de passe doit contenir au moins %d carctères non lettrés</item>
+        <item quantity="one">Le mot de passe doit contenir au moins 1 caractère non lettré</item>
+    </plurals>
+</resources>

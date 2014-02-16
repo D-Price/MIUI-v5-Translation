@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Retour Utilisateur</string>
+    <string name="user_feedback">Retour Utilisateur</string>
+    <string name="report_miui">Rapporter à MIUI</string>
+    <string name="menu_send">Envoyer</string>
+    <string name="menu_copy">Copier</string>
+    <string name="menu_attach_screenshot">Joindre une capture d\'écran</string>
+    <string name="menu_discard">Supprimer</string>
+    <string name="description">Description (obligatoire) en anglais</string>
+    <string name="btn_send">Envoyer</string>
+    <string name="err_type">Type de bug</string>
+    <string name="err_type_reboot">Redémarrages intempestifs</string>
+    <string name="err_type_force_close">Fermetures soudaines</string>
+    <string name="err_type_network">Problèmes de réseau</string>
+    <string name="err_type_others">Autres</string>
+    <string name="err_type_power_consuming">Consommation batterie</string>
+    <string name="err_type_call">Problème en appels</string>
+    <string name="err_type_suggestion">Suggestion</string>
+    <string name="err_type_data_lost">Perte de données</string>
+    <string name="status_msg_pending_upload">Envoi de %d</string>
+    <string name="status_msg_collecting_log">Récupération des journaux concernés</string>
+    <string name="action_submit">Envoyer</string>
+    <string name="section_err_type">Type de signalement</string>
+    <string name="section_description">Description</string>
+    <string name="section_screenshot">Capture d\'écran</string>
+    <string name="toast_report_sent_succeed">Votre signalement a été envoyé avec succès.</string>
+    <string name="toast_report_sent_failed">Echec de l\'envoi du signalement</string>
+    <string name="toast_report_copied_to_clipboard">Contenu du signalement copié dans le presse-papiers</string>
+    <string name="toast_description_required">Le descriptif du retour ne peut pas être vide</string>
+   <string name="toast_pending_log_collection">Rapatriement des journaux, merci de patienter</string>
+    <string name="toast_feedback_submitted">Votre signalement a bien été envoyé</string>
+    <string name="toast_feedback_pending_wlan">Votre signalement sera envoyé dès lors qu\'une connexion Wi-Fi sera disponible</string>
+    <string name="discard_draft_dialog_title">Supprimer le brouillon</string>
+    <string name="discard_draft_dialog_content">Le rapport a été modifié, OK pour supprimer le brouillon.</string>
+    <string name="discard_draft_dialog_button_discard">OK</string>
+    <string name="discard_draft_dialog_button_cancel">Annuler</string>
+    <string name="network_unavailable_dialog_title">Réseau indisponible</string>
+    <string name="network_unavailable_dialog_content">Votre signalement sera envoyé une fois la connexion au réseau rétablie</string>
+    <string name="network_unavailable_dialog_button_ok">OK</string>
+    <string name="wlan_unavailable_dialog_title">Wi-Fi indisponible</string>
+    <string name="wlan_unavailable_dialog_content">%s requiert l\'usage du réseau de données 2G/3G, cliquez sur OK pour envoyer seulement conencté au réseau Wi-Fi</string>
+    <string name="wlan_unavailable_dialog_button_sent">Envoyer maintenant</string>
+    <string name="wlan_unavailable_dialog_button_ok">OK</string>
+    <string name="packaging_dialog_content">Génération du rapport, merci de patienter…</string>
+    <string name="bugreport_feedback_from">De : %s</string>
+</resources>

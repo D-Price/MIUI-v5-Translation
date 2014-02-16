@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result_format">
+        <item quantity="other">%d chansons trouvées</item>
+        <item quantity="one">%d chansons ont été trouvées</item>
+    </plurals>
+    <plurals name="Ntracks_total">
+        <item quantity="other">%d chansons</item>
+        <item quantity="one">%d chanson</item>
+    </plurals>
+    <plurals name="Nhot_tracks_total">
+        <item quantity="other">%d chansons populaires</item>
+        <item quantity="one">%d chanson populaire</item>
+    </plurals>
+    <plurals name="Ntracks_string">
+        <item quantity="other">%d chansons</item>
+        <item quantity="one">%d chanson</item>
+    </plurals>
+    <plurals name="Ntracks_format">
+        <item quantity="other">%d chansons</item>
+        <item quantity="one">%d chanson</item>
+    </plurals>
+    <plurals name="Nalbums_format">
+        <item quantity="other">%d albums</item>
+        <item quantity="one">%d album</item>
+    </plurals>
+    <plurals name="Ntracks">
+        <item quantity="other">chansons</item>
+        <item quantity="one">chanson</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">albums</item>
+        <item quantity="one">album</item>
+    </plurals>
+    <plurals name="Nartists">
+        <item quantity="other">artistes</item>
+        <item quantity="one">artiste</item>
+    </plurals>
+    <plurals name="Nplaylists">
+        <item quantity="other">playlists</item>
+        <item quantity="one">playlist</item>
+    </plurals>
+    <plurals name="Nfolders">
+        <item quantity="other">" dossiers"</item>
+        <item quantity="one">" dossier"</item>
+    </plurals>
+    <plurals name="Nitems_batch_selection">
+        <item quantity="other">%d sélectionnés</item>
+        <item quantity="one">%d sélectionné</item>
+    </plurals>
+    <plurals name="Ntrack_in_sdcard_format">
+        <item quantity="other">Il y a %d chansons sur la carte SD</item>
+        <item quantity="one">Il y a %d chanson sur la carte SD</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d chansons ajoutées à la playlist</item>
+        <item quantity="one">1 chanson ajoutée à la playlist</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d chansons retirées de la liste de lecture</item>
+        <item quantity="one">1 chanson retirée de la liste de lecture</item>
+    </plurals>
+    <plurals name="NNNtrackstofavoriteplaylist">
+        <item quantity="other">%d chansons ajoutées à la playlist.</item>
+        <item quantity="one">1 chanson ajoutée à la playlist.</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_favorite_playlist">
+        <item quantity="other">%d chansons retirées de la liste de lecture favorite.</item>
+        <item quantity="one">1 chanson retirée de la liste de lecture favorite.</item>
+    </plurals>
+    <plurals name="Nsearch_results">
+        <item quantity="other">%d résultats</item>
+        <item quantity="one">%d résultat</item>
+    </plurals>
+    <plurals name="Nonlinecategory">
+        <item quantity="other">" catégories"</item>
+        <item quantity="one">" catégorie"</item>
+    </plurals>
+    <plurals name="Nexpiration_reminder">
+        <item quantity="other">%d jours avant expiration</item>
+        <item quantity="one">%d jour avant expiration</item>
+    </plurals>
+    <plurals name="album_details_format">
+        <item quantity="other">%1$s, %2$d chansons</item>
+        <item quantity="one">%1$s, %2$d chanson</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d chansons ont été supprimées</item>
+        <item quantity="one">1 chanson a été supprimée</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d chansons seront téléchargées</item>
+        <item quantity="one">1 chanson sera téléchargée</item>
+	</plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d jours restants</item>
+        <item quantity="one">%d jour restant</item>
+    </plurals>
+    <plurals name="Nvip_expired_remind">
+        <item quantity="other">"Votre accès à la musique de haute qualité est sur ​​le point d'expirer ( %d jours restants)"</item>
+    </plurals>
+</resources>

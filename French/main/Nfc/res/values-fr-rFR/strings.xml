@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Service Nfc</string>
+    <string name="nfcUserLabel">Nfc</string>
+    <string name="inbound_me_profile_title">Contact reçu par NFC</string>
+    <string name="inbound_me_profile_text">Touchez pour ajouter cette personne au contact.</string>
+    <string name="outbound_me_profile_title">NFC interaction complète</string>
+    <string name="outbound_me_profile_text">Touchez pour donner à cette personne vos informations de contact.</string>
+    <string name="accessibility_nfc_enabled">NFC autorisé.</string>
+    <string name="touch">Touch to beam</string>
+    <string name="beam_progress">Incoming beam...</string>
+    <string name="beam_complete">Beam complete</string>
+    <string name="beam_failed">Beam did not complete</string>
+    <string name="beam_canceled">Beam canceled</string>
+    <string name="cancel">Annulé</string>
+    <string name="beam_touch_to_view">Toucher pour voir</string>
+    <string name="beam_handover_not_supported">"Le dispositif de réception ne supporte pas le transfert de gros fichiers via faisceau."</string>
+    <string name="connecting_headset">Connection</string>
+    <string name="connected_headset">Connecté</string>
+    <string name="connect_headset_failed">Impossible de se connecter</string>
+    <string name="disconnecting_headset">Déconnection</string>
+    <string name="disconnected_headset">Déconnecté</string>
+    <string name="pairing_headset">Coupler</string>
+    <string name="pairing_headset_failed">Impossible de coupler</string>
+    <string name="failed_to_enable_bt">"Impossible d'activer Bluetooth"</string>
+    <string name="confirm_pairing">"Etes-vous sûr que vous voulez coupler l'appareil Bluetooth %1$s?"</string>
+    <string name="pair_yes">Oui</string>
+    <string name="pair_no">Non</string>
+</resources>

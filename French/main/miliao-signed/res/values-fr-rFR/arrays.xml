@@ -1,0 +1,1457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>hi~</item>
+        <item>:D</item>
+        <item>:P</item>
+        <item>囧:</item>
+        <item>::>_&amp;amp;amp;lt;::</item>
+        <item>&amp;amp;amp;lt;_>|||</item>
+        <item>∩_∩</item>
+        <item>bye~</item>
+        <item>^口^</item>
+        <item>〒_〒</item>
+        <item>∠※</item>
+        <item>":'("</item>
+        <item>一-一</item>
+        <item>b_d</item>
+        <item>*^?^*</item>
+        <item>^~^</item>
+        <item>$_$</item>
+        <item>:)</item>
+        <item>^_^</item>
+        <item>ˋ^ˊ</item>
+        <item>ˋ_ˊ</item>
+        <item>°ο°</item>
+        <item>^o^</item>
+        <item>⊙o⊙</item>
+        <item>\?_?</item>
+        <item>Huh~</item>
+        <item>ˉ^ˉ</item>
+        <item>→_→</item>
+        <item>\@ο@</item>
+        <item>^人^</item>
+        <item>hands~</item>
+        <item>oVo</item>
+        <item>ōk</item>
+        <item>-?o-?</item>
+        <item>night~</item>
+        <item>smoke~</item>
+    </string-array>
+    <string-array name="smiley_normal_texts">
+        <item>[happy]</item>
+        <item>[smile]</item>
+        <item>[laugh]</item>
+        <item>[fine]</item>
+        <item>[give you the glad eye]</item>
+        <item>[love]</item>
+        <item>[blow a kiss]</item>
+        <item>[kiss]</item>
+        <item>[surprised]</item>
+        <item>[relax]</item>
+        <item>[silly]</item>
+        <item>[childish]</item>
+        <item>[tongue out]</item>
+        <item>[disappointed]</item>
+        <item>[evil smile]</item>
+        <item>[man, serious?!]</item>
+        <item>[sad]</item>
+        <item>[eyes closed]</item>
+        <item>[speechless]</item>
+        <item>[worried]</item>
+        <item>[worried a lot]</item>
+        <item>[scared]</item>
+        <item>[complain]</item>
+        <item>[tears]</item>
+        <item>[crying]</item>
+        <item>[happy+tears]</item>
+        <item>[pass out]</item>
+        <item>[screaming]</item>
+        <item>[upset]</item>
+        <item>[angry]</item>
+        <item>[sleeping]</item>
+        <item>[sick]</item>
+        <item>[evil]</item>
+        <item>[ET]</item>
+        <item>[golden heart]</item>
+        <item>[blue heart]</item>
+        <item>[purple heart]</item>
+        <item>[pink heart]</item>
+        <item>[green heart]</item>
+        <item>[red heart]</item>
+        <item>[broken heart]</item>
+        <item>[tempted]</item>
+        <item>[in love]</item>
+        <item>[twinkling]</item>
+        <item>[star]</item>
+        <item>[punch]</item>
+        <item>[exclamation]</item>
+        <item>[question mark]</item>
+        <item>[snore]</item>
+        <item>[Fart]</item>
+        <item>[water drops]</item>
+        <item>[music notes]</item>
+        <item>[music]</item>
+        <item>[fire]</item>
+        <item>[poop]</item>
+        <item>[Good]</item>
+        <item>[Not good]</item>
+        <item>[Ok]</item>
+        <item>[fist]</item>
+        <item>[rock]</item>
+        <item>[scissor]</item>
+        <item>[paper]</item>
+        <item>[Bye]</item>
+        <item>[butterfly ]</item>
+        <item>[up]</item>
+        <item>[down]</item>
+        <item>[right]</item>
+        <item>[left]</item>
+        <item>[wait]</item>
+        <item>[praying]</item>
+        <item>[one]</item>
+        <item>[clapping]</item>
+        <item>[muscle]</item>
+        <item>[walking]</item>
+        <item>[running]</item>
+        <item>[couple]</item>
+        <item>[dancing]</item>
+        <item>[ballet]</item>
+        <item>[O]</item>
+        <item>[NO]</item>
+        <item>[please]</item>
+        <item>[please accept]</item>
+        <item>[fall in love]</item>
+        <item>[love each other]</item>
+        <item>[massage]</item>
+        <item>[haircut]</item>
+        <item>[painting nails]</item>
+        <item>[boy]</item>
+        <item>[girl]</item>
+        <item>[lady]</item>
+        <item>[guy]</item>
+        <item>[baby]</item>
+        <item>[grandma]</item>
+        <item>[grandpa]</item>
+        <item>[white guy]</item>
+        <item>[Asian]</item>
+        <item>[Middle eastern]</item>
+        <item>[construction worker]</item>
+        <item>[policeman]</item>
+        <item>[angel]</item>
+        <item>[princess]</item>
+        <item>[solder]</item>
+        <item>[skeleton]</item>
+        <item>[foot prints]</item>
+        <item>[kiss]</item>
+        <item>[mouth]</item>
+        <item>[ears]</item>
+        <item>[eyes]</item>
+        <item>[nose]</item>
+    </string-array>
+    <string-array name="smiley_nature_texts">
+        <item>[sunny]</item>
+        <item>[raining]</item>
+        <item>[cloudy]</item>
+        <item>[snowman]</item>
+        <item>[moon]</item>
+        <item>[lightening]</item>
+        <item>[tornado]</item>
+        <item>[wave]</item>
+        <item>[kitty]</item>
+        <item>[dog]</item>
+        <item>[mouse]</item>
+        <item>[mole]</item>
+        <item>[rabbit]</item>
+        <item>[fox]</item>
+        <item>[frog]</item>
+        <item>[tiger]</item>
+        <item>[koala]</item>
+        <item>[bear]</item>
+        <item>[pig]</item>
+        <item>[cow]</item>
+        <item>[wild pig]</item>
+        <item>[monkey]</item>
+        <item>[baby monkey]</item>
+        <item>[horse]</item>
+        <item>[running horse]</item>
+        <item>[camel]</item>
+        <item>[sheep]</item>
+        <item>[elephant]</item>
+        <item>[snake]</item>
+        <item>[baby duck]</item>
+        <item>[baby chicken]</item>
+        <item>[roaster]</item>
+        <item>[penguin]</item>
+        <item>[Caterpillar]</item>
+        <item>[octopus]</item>
+        <item>[tropical fish]</item>
+        <item>[fish]</item>
+        <item>[whale]</item>
+        <item>[dolphin]</item>
+        <item>[bouquet]</item>
+        <item>[cherry blossom]</item>
+        <item>[flower]</item>
+        <item>[clover]</item>
+        <item>[rose]</item>
+        <item>[sun flower]</item>
+        <item>[red flower]</item>
+        <item>[maple leaf]</item>
+        <item>[leaf]</item>
+        <item>[fall]</item>
+        <item>[palm tree]</item>
+        <item>[cactus]</item>
+        <item>[rice field]</item>
+        <item>[scallop]</item>
+    </string-array>
+    <string-array name="smiley_life_texts">
+        <item>[bamboo plant]</item>
+        <item>[love gift]</item>
+        <item>[just got married]</item>
+        <item>[schoolbag]</item>
+        <item>[suit]</item>
+        <item>[Fish shaped flags]</item>
+        <item>[fireworks]</item>
+        <item>[falling star]</item>
+        <item>[paper to write wishes]</item>
+        <item>[moon festival]</item>
+        <item>[Halloween]</item>
+        <item>[ghost]</item>
+        <item>[Santa]</item>
+        <item>[Christmas tree]</item>
+        <item>[gift]</item>
+        <item>[bell]</item>
+        <item>[congrats!]</item>
+        <item>[balloon]</item>
+        <item>[CD]</item>
+        <item>[Golden album]</item>
+        <item>[camera]</item>
+        <item>[video recorder]</item>
+        <item>[computer]</item>
+        <item>[TV]</item>
+        <item>[cell phone]</item>
+        <item>[fax]</item>
+        <item>[phone]</item>
+        <item>[DVD]</item>
+        <item>[tape]</item>
+        <item>[speaker]</item>
+        <item>[horn]</item>
+        <item>[ring the bell]</item>
+        <item>[radio]</item>
+        <item>[satellite]</item>
+        <item>[video tape]</item>
+        <item>[magnifying lens]</item>
+        <item>[unlock]</item>
+        <item>[lock]</item>
+        <item>[key]</item>
+        <item>[scissor]</item>
+        <item>[deal]</item>
+        <item>[light ball]</item>
+        <item>[call]</item>
+        <item>[send emails]</item>
+        <item>[mailbox]</item>
+        <item>[announcement]</item>
+        <item>[bubble bath]</item>
+        <item>[toilet]</item>
+        <item>[seat]</item>
+        <item>[money]</item>
+        <item>[gold]</item>
+        <item>[cigarette]</item>
+        <item>[bomb]</item>
+        <item>[gun]</item>
+        <item>[pill]</item>
+        <item>[take a shot]</item>
+        <item>[American football]</item>
+        <item>[basketball]</item>
+        <item>[soccer]</item>
+        <item>[baseball]</item>
+        <item>[tennis]</item>
+        <item>[golf]</item>
+        <item>[billiard]</item>
+        <item>[swim]</item>
+        <item>[surf]</item>
+        <item>[snowboarding]</item>
+        <item>[spade]</item>
+        <item>[heart]</item>
+        <item>[clover]</item>
+        <item>[diamond]</item>
+        <item>[trophy]</item>
+        <item>[video game]</item>
+        <item>[dart]</item>
+        <item>[Ma-jiang]</item>
+        <item>[shoot movies]</item>
+        <item>[write]</item>
+        <item>[read]</item>
+        <item>[draw]</item>
+        <item>[karaoke]</item>
+        <item>[listen to music]</item>
+        <item>[trumpet]</item>
+        <item>[saxophone]</item>
+        <item>[guitar]</item>
+        <item>[M]</item>
+        <item>[shoes]</item>
+        <item>[slipper]</item>
+        <item>[high heel]</item>
+        <item>[boots]</item>
+        <item>[t-shirt]</item>
+        <item>[shirt]</item>
+        <item>[dress]</item>
+        <item>[traditional dress]</item>
+        <item>[bikini]</item>
+        <item>[bow tie]</item>
+        <item>[magical hat]</item>
+        <item>[crown]</item>
+        <item>[hat]</item>
+        <item>[umbrella]</item>
+        <item>[business case]</item>
+        <item>[purse]</item>
+        <item>[lipstick]</item>
+        <item>[diamond ring]</item>
+        <item>[diamond]</item>
+        <item>[coffee]</item>
+        <item>[tea]</item>
+        <item>[beer]</item>
+        <item>[cheers]</item>
+        <item>[martini]</item>
+        <item>[Saki]</item>
+        <item>[folk&amp;amp;amp;amp;knife]</item>
+        <item>[hamburger]</item>
+        <item>[fries]</item>
+        <item>[pasta]</item>
+        <item>[rice dish]</item>
+        <item>[rice combo]</item>
+        <item>[sushi]</item>
+        <item>[onigiri]</item>
+        <item>[cookies]</item>
+        <item>[rice]</item>
+        <item>[noodle soup]</item>
+        <item>[soup]</item>
+        <item>[bread]</item>
+        <item>[fried egg]</item>
+        <item>[food on a stick]</item>
+        <item>[dessert on a stick]</item>
+        <item>[ice cream cone]</item>
+        <item>[ice cream]</item>
+        <item>[birthday cake]</item>
+        <item>[cake]</item>
+        <item>[apple]</item>
+        <item>[orange]</item>
+        <item>[watermelon]</item>
+        <item>[strawberry]</item>
+        <item>[eggplant]</item>
+        <item>[tomato]</item>
+    </string-array>
+    <string-array name="smiley_car_texts">
+        <item>[house]</item>
+        <item>[school]</item>
+        <item>[office building]</item>
+        <item>[apartment]</item>
+        <item>[hospital]</item>
+        <item>[bank]</item>
+        <item>[24/7 store]</item>
+        <item>[love hotel]</item>
+        <item>[hotel]</item>
+        <item>[wedding]</item>
+        <item>[church]</item>
+        <item>[building]</item>
+        <item>[morning]</item>
+        <item>[late in afternoon]</item>
+        <item>[street]</item>
+        <item>[temple]</item>
+        <item>[castle]</item>
+        <item>[tent]</item>
+        <item>[factory]</item>
+        <item>[tower]</item>
+        <item>[snow mountain]</item>
+        <item>[sunset]</item>
+        <item>[sunrise]</item>
+        <item>[shooting star]</item>
+        <item>[the statue of liberty]</item>
+        <item>[rainbow]</item>
+        <item>[adventure park]</item>
+        <item>[fountain]</item>
+        <item>[rolling coaster]</item>
+        <item>[cruise]</item>
+        <item>[boat]</item>
+        <item>[sailing ]</item>
+        <item>[airplane]</item>
+        <item>[rocket]</item>
+        <item>[bicycle]</item>
+        <item>[car]</item>
+        <item>[hybrid car]</item>
+        <item>[TAXI]</item>
+        <item>[BUS]</item>
+        <item>[police car]</item>
+        <item>[fire engines]</item>
+        <item>[ambulance]</item>
+        <item>[truck]</item>
+        <item>[trolley]</item>
+        <item>[metro]</item>
+        <item>[bullet train]</item>
+        <item>[subway]</item>
+        <item>[ticket]</item>
+        <item>[gas station]</item>
+        <item>[traffic light]</item>
+        <item>[warning]</item>
+        <item>[road block]</item>
+        <item>[shield]</item>
+        <item>[ATM]</item>
+        <item>[gambling]</item>
+        <item>[sign]</item>
+        <item>[salon]</item>
+        <item>[hot]</item>
+        <item>[F1 racing car]</item>
+        <item>[Japanese flags]</item>
+        <item>[Japan]</item>
+        <item>[Korea]</item>
+        <item>[China]</item>
+        <item>[USA]</item>
+        <item>[France]</item>
+        <item>[Spain]</item>
+        <item>[Italy]</item>
+        <item>[Russia]</item>
+        <item>[England]</item>
+        <item>[Germany]</item>
+    </string-array>
+    <string-array name="smiley_sign_texts">
+        <item>[1]</item>
+        <item>[2]</item>
+        <item>[3]</item>
+        <item>[4]</item>
+        <item>[5]</item>
+        <item>[6]</item>
+        <item>[7]</item>
+        <item>[8]</item>
+        <item>[9]</item>
+        <item>[0]</item>
+        <item>[#]</item>
+        <item>[↑]</item>
+        <item>[↓]</item>
+        <item>[←]</item>
+        <item>[→]</item>
+        <item>[up-right]</item>
+        <item>[up-left]</item>
+        <item>[down-right]</item>
+        <item>[down-left]</item>
+        <item>[back]</item>
+        <item>[play]</item>
+        <item>[rewind]</item>
+        <item>[forward</item>
+        <item>[OK]</item>
+        <item>[new]</item>
+        <item>[top]</item>
+        <item>[agree]</item>
+        <item>[cool]</item>
+        <item>[video]</item>
+        <item>[格子]</item>
+        <item>[full bar]</item>
+        <item>[full]</item>
+        <item>[empty]</item>
+        <item>[得]</item>
+        <item>[割]</item>
+        <item>[指]</item>
+        <item>[营]</item>
+        <item>[有]</item>
+        <item>[无]</item>
+        <item>[月]</item>
+        <item>[申]</item>
+        <item>[艹]</item>
+        <item>[lady&amp;amp;amp;amp;gentleman]</item>
+        <item>[gentleman]</item>
+        <item>[lady]</item>
+        <item>[kid]</item>
+        <item>[No smoking]</item>
+        <item>[P]</item>
+        <item>[disable]</item>
+        <item>[Metro]</item>
+        <item>[WC]</item>
+        <item>[秘]</item>
+        <item>[祝]</item>
+        <item>[Not yet 18]</item>
+        <item>[ID]</item>
+        <item>[★]</item>
+        <item>[风扇]</item>
+        <item>[heart]</item>
+        <item>[VS]</item>
+        <item>[开机]</item>
+        <item>[No calls]</item>
+        <item>[stocks]</item>
+        <item>[currency exchange]</item>
+        <item>[Aries]</item>
+        <item>[Taurus]</item>
+        <item>[Gemini]</item>
+        <item>[Cancer]</item>
+        <item>[Leo]</item>
+        <item>[Virgo]</item>
+        <item>[Libra]</item>
+        <item>[Scorpio]</item>
+        <item>[Sagittarius]</item>
+        <item>[Capricorn]</item>
+        <item>[Aquarius]</item>
+        <item>[Pisces]</item>
+        <item>[u~]</item>
+        <item>[pentagram]</item>
+        <item>[blood type A]</item>
+        <item>[blood type B]</item>
+        <item>[blood type AB]</item>
+        <item>[blood type O]</item>
+        <item>[green light]</item>
+        <item>[red light]</item>
+        <item>[紫灯]</item>
+        <item>[12 o’clock]</item>
+        <item>[1 o’clock]</item>
+        <item>[2 o’clock]</item>
+        <item>[3 o’clock]</item>
+        <item>[4 o’clock]</item>
+        <item>[5 o’clock]</item>
+        <item>[6 o’clock]</item>
+        <item>[7 o’clock]</item>
+        <item>[8 o’clock]</item>
+        <item>[9 o’clock]</item>
+        <item>[10 o’clock]</item>
+        <item>[11 o’clock]</item>
+        <item>[pass]</item>
+        <item>[wrong]</item>
+        <item>[license]</item>
+        <item>[registered]</item>
+        <item>[trademark]</item>
+    </string-array>
+    <integer-array name="testInteger">
+        <item>58389</item>
+    </integer-array>
+    <integer-array name="smiley_normal_texts_global">
+        <item>58389</item>
+        <item>57430</item>
+        <item>57431</item>
+        <item>58388</item>
+        <item>58373</item>
+        <item>57606</item>
+        <item>58392</item>
+        <item>58391</item>
+        <item>58381</item>
+        <item>58378</item>
+        <item>58372</item>
+        <item>57605</item>
+        <item>58377</item>
+        <item>58382</item>
+        <item>58370</item>
+        <item>57608</item>
+        <item>58371</item>
+        <item>57432</item>
+        <item>58375</item>
+        <item>58369</item>
+        <item>58383</item>
+        <item>58379</item>
+        <item>58374</item>
+        <item>58387</item>
+        <item>58385</item>
+        <item>58386</item>
+        <item>58384</item>
+        <item>57607</item>
+        <item>57433</item>
+        <item>58390</item>
+        <item>58376</item>
+        <item>58380</item>
+        <item>57626</item>
+        <item>57612</item>
+        <item>58156</item>
+        <item>58154</item>
+        <item>58157</item>
+        <item>58152</item>
+        <item>58155</item>
+        <item>57378</item>
+        <item>57379</item>
+        <item>58151</item>
+        <item>58153</item>
+        <item>58158</item>
+        <item>58159</item>
+        <item>58164</item>
+        <item>57377</item>
+        <item>57376</item>
+        <item>57660</item>
+        <item>58160</item>
+        <item>58161</item>
+        <item>58150</item>
+        <item>57406</item>
+        <item>57629</item>
+        <item>57434</item>
+        <item>57358</item>
+        <item>58401</item>
+        <item>58400</item>
+        <item>57357</item>
+        <item>57360</item>
+        <item>57361</item>
+        <item>58398</item>
+        <item>57362</item>
+        <item>58402</item>
+        <item>57902</item>
+        <item>57903</item>
+        <item>57905</item>
+        <item>57904</item>
+        <item>58407</item>
+        <item>58397</item>
+        <item>57359</item>
+        <item>58399</item>
+        <item>57676</item>
+        <item>57857</item>
+        <item>57621</item>
+        <item>58408</item>
+        <item>58655</item>
+        <item>58409</item>
+        <item>58404</item>
+        <item>58403</item>
+        <item>57939</item>
+        <item>58406</item>
+        <item>57617</item>
+        <item>58405</item>
+        <item>58142</item>
+        <item>58143</item>
+        <item>58141</item>
+        <item>57345</item>
+        <item>57346</item>
+        <item>57349</item>
+        <item>57348</item>
+        <item>58650</item>
+        <item>58649</item>
+        <item>58648</item>
+        <item>58645</item>
+        <item>58646</item>
+        <item>58647</item>
+        <item>58651</item>
+        <item>57682</item>
+        <item>57422</item>
+        <item>58652</item>
+        <item>58654</item>
+        <item>57628</item>
+        <item>58678</item>
+        <item>57347</item>
+        <item>58396</item>
+        <item>58395</item>
+        <item>58393</item>
+        <item>58394</item>
+    </integer-array>
+    <integer-array name="smiley_nature_texts_global">
+        <item>57418</item>
+        <item>57419</item>
+        <item>57417</item>
+        <item>57416</item>
+        <item>57420</item>
+        <item>57661</item>
+        <item>58435</item>
+        <item>58430</item>
+        <item>57423</item>
+        <item>57426</item>
+        <item>57427</item>
+        <item>58660</item>
+        <item>58668</item>
+        <item>58666</item>
+        <item>58673</item>
+        <item>57424</item>
+        <item>58663</item>
+        <item>57425</item>
+        <item>57611</item>
+        <item>58667</item>
+        <item>58671</item>
+        <item>57609</item>
+        <item>58664</item>
+        <item>57370</item>
+        <item>57652</item>
+        <item>58672</item>
+        <item>58665</item>
+        <item>58662</item>
+        <item>58669</item>
+        <item>58657</item>
+        <item>58659</item>
+        <item>58670</item>
+        <item>57429</item>
+        <item>58661</item>
+        <item>57610</item>
+        <item>58658</item>
+        <item>57369</item>
+        <item>57428</item>
+        <item>58656</item>
+        <item>58118</item>
+        <item>57392</item>
+        <item>58116</item>
+        <item>57616</item>
+        <item>57394</item>
+        <item>58117</item>
+        <item>58115</item>
+        <item>57624</item>
+        <item>58439</item>
+        <item>57625</item>
+        <item>58119</item>
+        <item>58120</item>
+        <item>58436</item>
+        <item>58433</item>
+    </integer-array>
+    <integer-array name="smiley_life_texts_global">
+        <item>58422</item>
+        <item>58423</item>
+        <item>58424</item>
+        <item>58426</item>
+        <item>58425</item>
+        <item>58427</item>
+        <item>57623</item>
+        <item>58432</item>
+        <item>58434</item>
+        <item>58438</item>
+        <item>58437</item>
+        <item>57627</item>
+        <item>58440</item>
+        <item>57395</item>
+        <item>57618</item>
+        <item>58149</item>
+        <item>58130</item>
+        <item>58128</item>
+        <item>57638</item>
+        <item>57639</item>
+        <item>57352</item>
+        <item>57405</item>
+        <item>57356</item>
+        <item>57642</item>
+        <item>57354</item>
+        <item>57355</item>
+        <item>57353</item>
+        <item>58134</item>
+        <item>57641</item>
+        <item>57665</item>
+        <item>57666</item>
+        <item>58135</item>
+        <item>57640</item>
+        <item>57675</item>
+        <item>57873</item>
+        <item>57620</item>
+        <item>57669</item>
+        <item>57668</item>
+        <item>57407</item>
+        <item>58131</item>
+        <item>57622</item>
+        <item>57615</item>
+        <item>57604</item>
+        <item>57603</item>
+        <item>57601</item>
+        <item>57602</item>
+        <item>57663</item>
+        <item>57664</item>
+        <item>57631</item>
+        <item>57647</item>
+        <item>57393</item>
+        <item>58126</item>
+        <item>58129</item>
+        <item>57619</item>
+        <item>58127</item>
+        <item>57659</item>
+        <item>58411</item>
+        <item>58410</item>
+        <item>57368</item>
+        <item>57366</item>
+        <item>57365</item>
+        <item>57364</item>
+        <item>58412</item>
+        <item>58413</item>
+        <item>57367</item>
+        <item>57363</item>
+        <item>57870</item>
+        <item>57868</item>
+        <item>57871</item>
+        <item>57869</item>
+        <item>57649</item>
+        <item>57643</item>
+        <item>57648</item>
+        <item>57645</item>
+        <item>58148</item>
+        <item>58113</item>
+        <item>57672</item>
+        <item>58626</item>
+        <item>57404</item>
+        <item>58122</item>
+        <item>57410</item>
+        <item>57408</item>
+        <item>57409</item>
+        <item>57644</item>
+        <item>57351</item>
+        <item>58138</item>
+        <item>57662</item>
+        <item>58139</item>
+        <item>57350</item>
+        <item>58114</item>
+        <item>58137</item>
+        <item>58145</item>
+        <item>58146</item>
+        <item>58132</item>
+        <item>58627</item>
+        <item>57614</item>
+        <item>58136</item>
+        <item>58428</item>
+        <item>57630</item>
+        <item>58147</item>
+        <item>58140</item>
+        <item>57396</item>
+        <item>57397</item>
+        <item>57413</item>
+        <item>58168</item>
+        <item>57415</item>
+        <item>58124</item>
+        <item>57412</item>
+        <item>58123</item>
+        <item>57411</item>
+        <item>57632</item>
+        <item>58171</item>
+        <item>58175</item>
+        <item>58177</item>
+        <item>58188</item>
+        <item>58180</item>
+        <item>58178</item>
+        <item>58173</item>
+        <item>58174</item>
+        <item>58176</item>
+        <item>58189</item>
+        <item>58169</item>
+        <item>57671</item>
+        <item>58179</item>
+        <item>58172</item>
+        <item>58170</item>
+        <item>58431</item>
+        <item>58187</item>
+        <item>57414</item>
+        <item>58181</item>
+        <item>58182</item>
+        <item>58184</item>
+        <item>58183</item>
+        <item>58186</item>
+        <item>58185</item>
+    </integer-array>
+    <integer-array name="smiley_car_texts_global">
+        <item>57398</item>
+        <item>57687</item>
+        <item>57400</item>
+        <item>57683</item>
+        <item>57685</item>
+        <item>57677</item>
+        <item>57686</item>
+        <item>58625</item>
+        <item>57688</item>
+        <item>58429</item>
+        <item>57399</item>
+        <item>58628</item>
+        <item>58442</item>
+        <item>57670</item>
+        <item>58634</item>
+        <item>58629</item>
+        <item>58630</item>
+        <item>57634</item>
+        <item>58632</item>
+        <item>58633</item>
+        <item>57403</item>
+        <item>57421</item>
+        <item>58441</item>
+        <item>58443</item>
+        <item>58653</item>
+        <item>58444</item>
+        <item>57636</item>
+        <item>57633</item>
+        <item>58419</item>
+        <item>57858</item>
+        <item>57653</item>
+        <item>57372</item>
+        <item>57373</item>
+        <item>57613</item>
+        <item>57654</item>
+        <item>58414</item>
+        <item>57371</item>
+        <item>57690</item>
+        <item>57689</item>
+        <item>58418</item>
+        <item>58416</item>
+        <item>58417</item>
+        <item>58415</item>
+        <item>57374</item>
+        <item>57401</item>
+        <item>58421</item>
+        <item>57375</item>
+        <item>57637</item>
+        <item>57402</item>
+        <item>57678</item>
+        <item>57938</item>
+        <item>57655</item>
+        <item>57865</item>
+        <item>57684</item>
+        <item>57651</item>
+        <item>57680</item>
+        <item>58144</item>
+        <item>57635</item>
+        <item>57650</item>
+        <item>57667</item>
+        <item>58635</item>
+        <item>58644</item>
+        <item>58643</item>
+        <item>58636</item>
+        <item>58637</item>
+        <item>58641</item>
+        <item>58639</item>
+        <item>58642</item>
+        <item>58640</item>
+        <item>58638</item>
+    </integer-array>
+    <integer-array name="smiley_sign_texts_global">
+        <item>57884</item>
+        <item>57885</item>
+        <item>57886</item>
+        <item>57887</item>
+        <item>57888</item>
+        <item>57889</item>
+        <item>57890</item>
+        <item>57891</item>
+        <item>57892</item>
+        <item>57893</item>
+        <item>57872</item>
+        <item>57906</item>
+        <item>57907</item>
+        <item>57909</item>
+        <item>57908</item>
+        <item>57910</item>
+        <item>57911</item>
+        <item>57912</item>
+        <item>57913</item>
+        <item>57915</item>
+        <item>57914</item>
+        <item>57917</item>
+        <item>57916</item>
+        <item>57933</item>
+        <item>57874</item>
+        <item>57932</item>
+        <item>57875</item>
+        <item>57876</item>
+        <item>58631</item>
+        <item>57859</item>
+        <item>57867</item>
+        <item>57898</item>
+        <item>57899</item>
+        <item>57894</item>
+        <item>57895</item>
+        <item>57900</item>
+        <item>57901</item>
+        <item>57877</item>
+        <item>57878</item>
+        <item>57879</item>
+        <item>57880</item>
+        <item>57896</item>
+        <item>57681</item>
+        <item>57656</item>
+        <item>57657</item>
+        <item>57658</item>
+        <item>57864</item>
+        <item>57679</item>
+        <item>57866</item>
+        <item>58420</item>
+        <item>58121</item>
+        <item>58133</item>
+        <item>58125</item>
+        <item>57863</item>
+        <item>57897</item>
+        <item>57862</item>
+        <item>57861</item>
+        <item>57860</item>
+        <item>57646</item>
+        <item>57936</item>
+        <item>57937</item>
+        <item>57674</item>
+        <item>57673</item>
+        <item>57919</item>
+        <item>57920</item>
+        <item>57921</item>
+        <item>57922</item>
+        <item>57923</item>
+        <item>57924</item>
+        <item>57925</item>
+        <item>57926</item>
+        <item>57927</item>
+        <item>57928</item>
+        <item>57929</item>
+        <item>57930</item>
+        <item>57931</item>
+        <item>57918</item>
+        <item>58674</item>
+        <item>58675</item>
+        <item>58676</item>
+        <item>58677</item>
+        <item>57882</item>
+        <item>57881</item>
+        <item>57883</item>
+        <item>57391</item>
+        <item>57380</item>
+        <item>57381</item>
+        <item>57382</item>
+        <item>57383</item>
+        <item>57384</item>
+        <item>57385</item>
+        <item>57386</item>
+        <item>57387</item>
+        <item>57388</item>
+        <item>57389</item>
+        <item>57390</item>
+        <item>58162</item>
+        <item>58163</item>
+        <item>57934</item>
+        <item>57935</item>
+        <item>58679</item>
+    </integer-array>
+    <array name="smiley_normal_filenames" />
+    <string-array name="smiley_nature_filenames">
+        <item>e43e.png</item>
+        <item>e04f.png</item>
+        <item>e052.png</item>
+        <item>e053.png</item>
+        <item>e524.png</item>
+        <item>e52c.png</item>
+        <item>e52a.png</item>
+        <item>e531.png</item>
+        <item>e050.png</item>
+        <item>e527.png</item>
+        <item>e051.png</item>
+        <item>e10b.png</item>
+        <item>e52b.png</item>
+        <item>e52f.png</item>
+        <item>e109.png</item>
+        <item>e528.png</item>
+        <item>e01a.png</item>
+        <item>e134.png</item>
+        <item>e530.png</item>
+        <item>e529.png</item>
+        <item>e526.png</item>
+        <item>e52d.png</item>
+        <item>e521.png</item>
+        <item>e523.png</item>
+        <item>e52e.png</item>
+        <item>e055.png</item>
+        <item>e525.png</item>
+        <item>e10a.png</item>
+        <item>e522.png</item>
+        <item>e019.png</item>
+        <item>e054.png</item>
+        <item>e520.png</item>
+        <item>e306.png</item>
+        <item>e030.png</item>
+        <item>e304.png</item>
+        <item>e110.png</item>
+        <item>e032.png</item>
+        <item>e305.png</item>
+        <item>e303.png</item>
+        <item>e118.png</item>
+        <item>e447.png</item>
+        <item>e119.png</item>
+        <item>e307.png</item>
+        <item>e308.png</item>
+        <item>e444.png</item>
+        <item>e441.png</item>
+    </string-array>
+    <string-array name="smiley_life_filenames">
+        <item>e440.png</item>
+        <item>e442.png</item>
+        <item>e446.png</item>
+        <item>e445.png</item>
+        <item>e11b.png</item>
+        <item>e448.png</item>
+        <item>e033.png</item>
+        <item>e112.png</item>
+        <item>e325.png</item>
+        <item>e312.png</item>
+        <item>e310.png</item>
+        <item>e126.png</item>
+        <item>e127.png</item>
+        <item>e008.png</item>
+        <item>e03d.png</item>
+        <item>e00c.png</item>
+        <item>e12a.png</item>
+        <item>e00a.png</item>
+        <item>e00b.png</item>
+        <item>e009.png</item>
+        <item>e316.png</item>
+        <item>e129.png</item>
+        <item>e141.png</item>
+        <item>e142.png</item>
+        <item>e317.png</item>
+        <item>e128.png</item>
+        <item>e14b.png</item>
+        <item>e211.png</item>
+        <item>e114.png</item>
+        <item>e145.png</item>
+        <item>e144.png</item>
+        <item>e03f.png</item>
+        <item>e313.png</item>
+        <item>e116.png</item>
+        <item>e10f.png</item>
+        <item>e104.png</item>
+        <item>e103.png</item>
+        <item>e101.png</item>
+        <item>e102.png</item>
+        <item>e13f.png</item>
+        <item>e140.png</item>
+        <item>e11f.png</item>
+        <item>e12f.png</item>
+        <item>e031.png</item>
+        <item>e30e.png</item>
+        <item>e311.png</item>
+        <item>e113.png</item>
+        <item>e30f.png</item>
+        <item>e13b.png</item>
+        <item>e42b.png</item>
+        <item>e42a.png</item>
+        <item>e018.png</item>
+        <item>e016.png</item>
+        <item>e015.png</item>
+        <item>e014.png</item>
+        <item>e42c.png</item>
+        <item>e42d.png</item>
+        <item>e017.png</item>
+        <item>e013.png</item>
+        <item>e20e.png</item>
+        <item>e20c.png</item>
+        <item>e20f.png</item>
+        <item>e20d.png</item>
+        <item>e131.png</item>
+        <item>e12b.png</item>
+        <item>e130.png</item>
+        <item>e12d.png</item>
+        <item>e324.png</item>
+        <item>e301.png</item>
+        <item>e148.png</item>
+        <item>e502.png</item>
+        <item>e03c.png</item>
+        <item>e30a.png</item>
+        <item>e042.png</item>
+        <item>e040.png</item>
+        <item>e041.png</item>
+        <item>e12c.png</item>
+        <item>e007.png</item>
+        <item>e31a.png</item>
+        <item>e13e.png</item>
+        <item>e31b.png</item>
+        <item>e006.png</item>
+        <item>e302.png</item>
+        <item>e319.png</item>
+        <item>e321.png</item>
+        <item>e322.png</item>
+        <item>e314.png</item>
+        <item>e503.png</item>
+        <item>e10e.png</item>
+        <item>e318.png</item>
+        <item>e43c.png</item>
+        <item>e11e.png</item>
+        <item>e323.png</item>
+        <item>e31c.png</item>
+        <item>e034.png</item>
+        <item>e035.png</item>
+        <item>e045.png</item>
+        <item>e338.png</item>
+        <item>e047.png</item>
+        <item>e30c.png</item>
+        <item>e044.png</item>
+        <item>e30b.png</item>
+        <item>e043.png</item>
+        <item>e120.png</item>
+        <item>e33b.png</item>
+        <item>e33f.png</item>
+        <item>e341.png</item>
+        <item>e34c.png</item>
+        <item>e344.png</item>
+        <item>e342.png</item>
+        <item>e33d.png</item>
+        <item>e33e.png</item>
+        <item>e340.png</item>
+        <item>e34d.png</item>
+        <item>e339.png</item>
+        <item>e147.png</item>
+        <item>e343.png</item>
+        <item>e33c.png</item>
+        <item>e33a.png</item>
+        <item>e43f.png</item>
+        <item>e34b.png</item>
+        <item>e046.png</item>
+        <item>e345.png</item>
+        <item>e346.png</item>
+        <item>e348.png</item>
+        <item>e347.png</item>
+        <item>e34a.png</item>
+        <item>e349.png</item>
+    </string-array>
+    <string-array name="smiley_car_filenames">
+        <item>e501.png</item>
+        <item>e158.png</item>
+        <item>e43d.png</item>
+        <item>e037.png</item>
+        <item>e504.png</item>
+        <item>e44a.png</item>
+        <item>e146.png</item>
+        <item>e50a.png</item>
+        <item>e505.png</item>
+        <item>e506.png</item>
+        <item>e122.png</item>
+        <item>e508.png</item>
+        <item>e509.png</item>
+        <item>e03b.png</item>
+        <item>e04d.png</item>
+        <item>e449.png</item>
+        <item>e44b.png</item>
+        <item>e51d.png</item>
+        <item>e44c.png</item>
+        <item>e124.png</item>
+        <item>e121.png</item>
+        <item>e433.png</item>
+        <item>e202.png</item>
+        <item>e135.png</item>
+        <item>e01c.png</item>
+        <item>e01d.png</item>
+        <item>e10d.png</item>
+        <item>e136.png</item>
+        <item>e42e.png</item>
+        <item>e01b.png</item>
+        <item>e15a.png</item>
+        <item>e159.png</item>
+        <item>e432.png</item>
+        <item>e430.png</item>
+        <item>e431.png</item>
+        <item>e42f.png</item>
+        <item>e01e.png</item>
+        <item>e039.png</item>
+        <item>e435.png</item>
+        <item>e01f.png</item>
+        <item>e125.png</item>
+        <item>e03a.png</item>
+        <item>e14e.png</item>
+        <item>e252.png</item>
+        <item>e137.png</item>
+        <item>e209.png</item>
+        <item>e154.png</item>
+        <item>e133.png</item>
+        <item>e150.png</item>
+        <item>e320.png</item>
+        <item>e123.png</item>
+        <item>e132.png</item>
+        <item>e143.png</item>
+        <item>e50b.png</item>
+        <item>e514.png</item>
+        <item>e513.png</item>
+        <item>e50c.png</item>
+        <item>e50d.png</item>
+        <item>e511.png</item>
+        <item>e50f.png</item>
+        <item>e512.png</item>
+        <item>e510.png</item>
+        <item>e50e.png</item>
+    </string-array>
+    <string-array name="smiley_sign_filenames">
+        <item>e223.png</item>
+        <item>e224.png</item>
+        <item>e225.png</item>
+        <item>e210.png</item>
+        <item>e232.png</item>
+        <item>e233.png</item>
+        <item>e235.png</item>
+        <item>e234.png</item>
+        <item>e236.png</item>
+        <item>e237.png</item>
+        <item>e238.png</item>
+        <item>e239.png</item>
+        <item>e23b.png</item>
+        <item>e23a.png</item>
+        <item>e23d.png</item>
+        <item>e23c.png</item>
+        <item>e24d.png</item>
+        <item>e212.png</item>
+        <item>e24c.png</item>
+        <item>e213.png</item>
+        <item>e214.png</item>
+        <item>e507.png</item>
+        <item>e203.png</item>
+        <item>e20b.png</item>
+        <item>e22a.png</item>
+        <item>e22b.png</item>
+        <item>e226.png</item>
+        <item>e227.png</item>
+        <item>e22c.png</item>
+        <item>e22d.png</item>
+        <item>e215.png</item>
+        <item>e216.png</item>
+        <item>e217.png</item>
+        <item>e218.png</item>
+        <item>e228.png</item>
+        <item>e151.png</item>
+        <item>e138.png</item>
+        <item>e139.png</item>
+        <item>e13a.png</item>
+        <item>e208.png</item>
+        <item>e14f.png</item>
+        <item>e20a.png</item>
+        <item>e434.png</item>
+        <item>e309.png</item>
+        <item>e315.png</item>
+        <item>e30d.png</item>
+        <item>e207.png</item>
+        <item>e229.png</item>
+        <item>e206.png</item>
+        <item>e205.png</item>
+        <item>e204.png</item>
+        <item>e12e.png</item>
+        <item>e250.png</item>
+        <item>e251.png</item>
+        <item>e14a.png</item>
+        <item>e149.png</item>
+        <item>e23f.png</item>
+        <item>e240.png</item>
+        <item>e241.png</item>
+        <item>e242.png</item>
+        <item>e243.png</item>
+        <item>e244.png</item>
+        <item>e245.png</item>
+        <item>e246.png</item>
+        <item>e247.png</item>
+        <item>e248.png</item>
+        <item>e249.png</item>
+        <item>e24a.png</item>
+        <item>e24b.png</item>
+        <item>e23e.png</item>
+        <item>e532.png</item>
+        <item>e533.png</item>
+        <item>e534.png</item>
+        <item>e535.png</item>
+        <item>e21a.png</item>
+        <item>e219.png</item>
+        <item>e21b.png</item>
+        <item>e02f.png</item>
+        <item>e024.png</item>
+        <item>e025.png</item>
+        <item>e026.png</item>
+        <item>e027.png</item>
+        <item>e028.png</item>
+        <item>e029.png</item>
+        <item>e02a.png</item>
+        <item>e02b.png</item>
+        <item>e02c.png</item>
+        <item>e02d.png</item>
+        <item>e02e.png</item>
+        <item>e332.png</item>
+        <item>e333.png</item>
+        <item>e24e.png</item>
+        <item>e24f.png</item>
+        <item>e537.png</item>
+    </string-array>
+    <integer-array name="smiley_rubbish_texts_global">
+        <item>58165</item>
+        <item>58166</item>
+        <item>58167</item>
+    </integer-array>
+    <string-array name="smiley_rubbish_texts">
+        <item>[Star]</item>
+        <item>[?]</item>
+        <item>[!]</item>
+    </string-array>
+    <string-array name="default_insert_attach_names">
+        <item>Images</item>
+        <item>Camera</item>
+        <item>Contacts</item>
+        <item>Favoris</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>Blanche</item>
+        <item>Verte</item>
+        <item>Rouge</item>
+        <item>Bleue</item>
+        <item>Jaune</item>
+        <item>Bleue cyan</item>
+        <item>Pourpre</item>
+        <item>Violette</item>
+        <item>Orange</item>
+        <item>Bleue ciel</item>
+    </string-array>
+    <string-array name="led_color_values">
+        <item>white</item>
+        <item>green</item>
+        <item>red</item>
+        <item>blue</item>
+        <item>yellow</item>
+        <item>cyan</item>
+        <item>\#800080</item>
+        <item>\#ffc0cb</item>
+        <item>\#ffa500</item>
+        <item>\#add8e6</item>
+    </string-array>
+    <string-array name="font_size_entries">
+        <item>Petite</item>
+        <item>Moyenne</item>
+        <item>Grande</item>
+    </string-array>
+    <string-array name="font_size_values">
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+    </string-array>
+    <string-array name="pref_normal_sms_support_choices">
+        <item>Ne pas afficher les SMS locaux</item>
+        <item>Seulement affciher les SMS locaux des contacts Miliao</item>
+        <item>Montrer tous les SMS locaux</item>
+    </string-array>
+    <string-array name="pref_normal_sms_support_values">
+        <item>NONE</item>
+        <item>MILIAO_ONLY</item>
+        <item>ALL</item>
+    </string-array>
+    <string-array name="pref_notification_choices">
+        <item>Rien</item>
+        <item>Notifications seulement</item>
+        <item>Sonner</item>
+        <item>Vibrer</item>
+        <item>Sonner et vibrer</item>
+    </string-array>
+    <string-array name="pref_notification_values">
+        <item>NONE</item>
+        <item>BUBBLE</item>
+        <item>SOUND</item>
+        <item>VIBRATE</item>
+        <item>SOUND_VIBRATE</item>
+    </string-array>
+    <string-array name="supported_emails">
+        <item>gmail.com</item>
+        <item>hotmail.com</item>
+    </string-array>
+    <string-array name="pref_privacy_fri_verify_choices">
+        <item>Aucune confirmation requise</item>
+        <item>Recquiert une confirmation</item>
+        <item>"Désactiver l'ajout"</item>
+    </string-array>
+    <string-array name="pref_privacy_fri_verify_values">
+        <item>NO_VERIFY</item>
+        <item>VERIFY</item>
+        <item>NO_ADD</item>
+    </string-array>
+    <string-array name="pickture_choices">
+        <item>Prendre une photo</item>
+        <item>Album photo</item>
+    </string-array>
+    <string-array name="send_rich_media">
+        <item>Prendre une photo</item>
+        <item>Album photo</item>
+        <item>Partager mon emplacement actuel</item>
+    </string-array>
+    <string-array name="namecard_photo_choices">
+        <item>Agrandir</item>
+        <item>Etablir en photo par défaut</item>
+        <item>Reprendre</item>
+        <item>Album photo</item>
+        <item>Supprimer</item>
+    </string-array>
+    <string-array name="namecard_remain_one_photo_choices">
+        <item>Agrandir</item>
+        <item>Reprendre</item>
+        <item>Album photo</item>
+    </string-array>
+    <string-array name="namecard_school_choices">
+        <item>大学</item>
+        <item>中学</item>
+    </string-array>
+    <string-array name="namecard_sex_choices">
+        <item>Masculin</item>
+        <item>Féminin</item>
+    </string-array>
+</resources>

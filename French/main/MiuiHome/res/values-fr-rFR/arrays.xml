@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="widget_sizes">
+        <item>home_edit_box_area_1_1</item>
+        <item>home_edit_box_area_1_2</item>
+        <item>home_edit_box_area_1_3</item>
+        <item>home_edit_box_area_1_4</item>
+        <item>home_edit_box_area_2_1</item>
+        <item>home_edit_box_area_2_2</item>
+        <item>home_edit_box_area_2_3</item>
+        <item>home_edit_box_area_2_4</item>
+        <item>home_edit_box_area_3_1</item>
+        <item>home_edit_box_area_3_2</item>
+        <item>home_edit_box_area_3_3</item>
+        <item>home_edit_box_area_3_4</item>
+        <item>home_edit_box_area_4_1</item>
+        <item>home_edit_box_area_4_2</item>
+        <item>home_edit_box_area_4_3</item>
+        <item>home_edit_box_area_4_4</item>
+    </string-array>
+    <array name="item_shake_animation_scaler">
+        <item>0.0dip</item>
+        <item>-4.0dip</item>
+        <item>2.0dip</item>
+        <item>-1.0dip</item>
+        <item>0.0dip</item>
+    </array>
+    <array name="app_locating_animation_scaler">
+        <item>1.0</item>
+        <item>1.4</item>
+        <item>0.9</item>
+        <item>1.1</item>
+        <item>1.0</item>
+    </array>
+    <string-array name="transformation_entries">
+        <item>Glissement classique</item>
+        <item>Glissement classique (sans rebond)</item>
+        <item>Fondu</item>
+        <item>Eventail</item>
+        <item>Page</item>
+        <item>Cascade</item>
+        <item>Rotation</item>
+        <item>Cube</item>
+    </string-array>
+    <string-array name="transformation_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>8</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Thème par défaut</item>
+        <item>Centré</item>
+        <item>Décalé à gauche</item>
+        <item>Décalé à droite</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_values">
+        <item>byTheme</item>
+        <item>center</item>
+        <item>left</item>
+        <item>right</item>
+    </string-array>
+    <string-array name="cell_layout_size_entries">
+        <item>3x3</item>
+        <item>3x4</item>
+        <item>4x4</item>
+        <item>4x5</item>
+        <item>5x5</item>
+        <item>5x6</item>
+        <item>6x5</item>
+        <item>6x6</item>
+        <item>6x7</item>
+    </string-array>
+    <string-array name="cell_layout_size_values">
+        <item>3x3</item>
+        <item>3x4</item>
+        <item>4x4</item>
+        <item>4x5</item>
+        <item>5x5</item>
+        <item>5x6</item>
+        <item>6x5</item>
+        <item>6x6</item>
+        <item>6x7</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Default</item>
+        <item>Classic</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Clair</item>
+        <item>Nuageux</item>
+        <item>brumeux</item>
+        <item>brumeux</item>
+        <item>forte tempête de pluie</item>
+        <item>tempête de pluie</item>
+        <item>De très fortes pluies</item>
+        <item>orage</item>
+        <item>averse</item>
+        <item>De fortes pluies</item>
+        <item>Pluie</item>
+        <item>bruine</item>
+        <item>neige fondue</item>
+        <item>tempête de neige</item>
+        <item>plaques de neige</item>
+        <item>fortes chutes de neige</item>
+        <item>chutes de neige</item>
+        <item>chutes de neige légères</item>
+        <item>forte tempête de sable</item>
+        <item>tempête de sable</item>
+        <item>tempête de sable légère</item>
+        <item>tempête de sable</item>
+        <item>grêle</item>
+        <item>Poussière dans l\'air</item>
+        <item>Brume</item>
+    </string-array>
+</resources>

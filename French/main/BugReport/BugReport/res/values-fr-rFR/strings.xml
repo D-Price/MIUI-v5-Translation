@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Retour Utilisateur</string>
+    <string name="user_feedback">Retour Utilisateur</string>
+    <string name="report_miui">Rapporter à MIUI</string>
+    <string name="menu_send">Envoyer</string>
+    <string name="menu_copy">Copier</string>
+    <string name="menu_attach_screenshot">"Attacher capture d'écran"</string>
+    <string name="menu_discard">Jeter</string>
+    <string name="description">Description (requis)</string>
+    <string name="btn_send">Envoyer</string>
+    <string name="err_type">Type de retour</string>
+    <string name="err_type_reboot">Redémarrages système</string>
+    <string name="err_type_force_close">Force close</string>
+    <string name="err_type_network">problèmes de réseau</string>
+    <string name="err_type_others">Autre</string>
+    <string name="err_type_power_consuming">"consommation d'énergie"</string>
+    <string name="err_type_call">"problèmes d'appel"</string>
+    <string name="err_type_suggestion">Suggestions</string>
+    <string name="err_type_data_lost">perte de données</string>
+    <string name="status_msg_pending_upload">%d retour sont envoyés…</string>
+    <string name="status_msg_collecting_log">Récupération de logs</string>
+    <string name="action_submit">Envoyer</string>
+    <string name="section_err_type">Type de retour</string>
+    <string name="section_description">Description</string>
+    <string name="section_screenshot">"Capture d'écran"</string>
+    <string name="toast_report_sent_succeed">Le rapport a été envoyé</string>
+    <string name="toast_report_sent_failed">"Impossible d'envoyer le rapport"</string>
+    <string name="toast_report_copied_to_clipboard">Rapport copié dans le presse papier</string>
+    <string name="toast_description_required">La description est requise</string>
+    <string name="toast_pending_log_collection">Récupération des logs, patientez un moment</string>
+    <string name="toast_feedback_submitted">Vos retours ont bien été envoyés</string>
+    <string name="toast_feedback_pending_wlan">Vos retours seront envoyés quand la connxion WLAN sera prête</string>
+    <string name="discard_draft_dialog_title">jeter projet</string>
+    <string name="discard_draft_dialog_content">Le rapport à été modifié, cliquer sur OK pour jeter le projet</string>
+    <string name="discard_draft_dialog_button_discard">OK</string>
+    <string name="discard_draft_dialog_button_cancel">Annuler</string>
+    <string name="network_unavailable_dialog_title">Réseau indisponible</string>
+    <string name="network_unavailable_dialog_content">Vos retours seront envoyés quand le réseau sera prêt</string>
+    <string name="network_unavailable_dialog_button_ok">OK</string>
+    <string name="wlan_unavailable_dialog_title">WLAN indisponible</string>
+    <string name="wlan_unavailable_dialog_content">%s est requis pour les données 2G/3G, cliquer sur OK pour envoyer seulement en wifi</string>
+    <string name="wlan_unavailable_dialog_button_sent">Envoyer immédiatement</string>
+    <string name="wlan_unavailable_dialog_button_ok">OK</string>
+    <string name="packaging_dialog_content">Génération du rapport, patientez un moment…</string>
+</resources>

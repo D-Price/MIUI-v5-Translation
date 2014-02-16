@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Beauté du visage</string>
+    <string name="ids_common_cancel">Annuler</string>
+    <string name="ids_common_ok">OK</string>
+    <string name="ids_menu_before_after">Avant &amp; Après</string>
+    <string name="ids_menu_save">Enregistrer</string>
+    <string name="ids_dialog_noface_message">"Impossible de détecter les visages 
+Enregistrer?"</string>
+    <string name="ids_dialog_noface_title">Beauté du visage</string>
+    <string name="ids_waiting_for_processing">Traitement...</string>
+    <string name="ids_process_failed">Echec de la beauté du visage</string>
+    <string name="ids_file_is_null">Le chemin du fichier est invalide</string>
+    <string name="ids_photo_is_unsupported">"Cette photo n'est aps supporté"</string>
+    <string name="ids_toast_no_face">"Il n'y a pas de visage sur la photo"</string>
+    <string name="ids_param_eye">œil</string>
+    <string name="ids_param_slimface">Visage mince</string>
+    <string name="ids_param_filter">Filtre</string>
+</resources>

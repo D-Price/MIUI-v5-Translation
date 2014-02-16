@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
+    <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+    <string name="apps_search_activity" />
+    <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
+    <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
+    <string name="default_search_domain">.google.com</string>
+    <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+    <string name="app_name">Rechercher</string>
+    <string name="search_widget">Rechercher</string>
+    <string name="remove_from_history">"Voulez-vous supprimer cette élément de l'historique de recherche?"</string>
+    <string name="remove_from_history_failed">"Impossible de supprimer l'élément de l'historique."</string>
+    <string name="corpus_selection_heading">Rechercher</string>
+    <string name="corpus_label_global">Tout</string>
+    <string name="corpus_label_web">Internet</string>
+    <string name="corpus_description_web">"Recherche internet, marques-pages, et dans l'historique"</string>
+    <string name="corpus_label_apps">Applications</string>
+    <string name="corpus_description_apps">cLes noms des applications installées</string>
+    <string name="corpus_hint_apps">Rechercher applications</string>
+    <string name="menu_settings">Rechercher paramètres</string>
+    <string name="search_settings">Rechercher paramètres</string>
+    <string name="google_settings_category_title">Recherche google</string>
+    <string name="device_settings_category_title">Effacer les raccourcis</string>
+    <string name="system_search_category_title">Téléphone</string>
+    <string name="search_sources">Recherche des éléments</string>
+    <string name="search_sources_summary">Choisissez ce que vous rechercher sur le téléphone</string>
+    <string name="clear_shortcuts">Effacer les raccourcis</string>
+    <string name="clear_shortcuts_summary">Effacer les raccourcis vers des suggestions de recherche récemment utilisé</string>
+    <string name="clear_shortcuts_prompt">"Voulez-vous effacer tous les raccourcis vers les suggestions de recherche récemment utilisé?
+
+Pour effacer l'historique du navigateur, utilisez les réglages de votre navigateur."</string>
+    <string name="clear_shortcuts_agree">Effacer les raccourcis</string>
+    <string name="clear_shortcuts_disagree">Ne pas éffacer les raccourcis</string>
+    <string name="menu_help">Aide</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">Recherche google</string>
+    <string name="google_search_hint">Recherche google</string>
+    <string name="google_search_description">Suggestions de recherche google</string>
+    <string name="voice_search_hint_title">Essayez de dire:</string>
+    <string name="voice_search_hint_quotation_start">\"</string>
+    <string name="voice_search_hint_quotation_end">\"</string>
+    <string name="search_in_web">Chercher sur Internet</string>
+    <string name="search_in_app_store">Rechercher sur le marché</string>
+</resources>
